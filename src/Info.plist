@@ -1,0 +1,10 @@
+<key>NSLocationWhenInUseUsageDescription</key>
+<string>נא לאשר שימוש במיקום המכשיר</string>
+<key>NSLocationAlwaysUsageDescription</key>
+<string>נא לאשר שימוש במיקום המכשיר ברקע</string>
+<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+<string>שימוש במיקום המכשיר</string>
+<key>UIBackgroundModes</key>
+<array>
+    <string>location</string>
+</array>
